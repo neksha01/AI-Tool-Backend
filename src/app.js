@@ -5,7 +5,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://react-ai-tool-psi-umber.vercel.app",
+    origin: "https://react-ai-tool-2goh.vercel.app",
     credentials: true,
   })
 );
